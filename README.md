@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently looking to learn (in no specific order) **PowerBI/Tableau, AWS/Azure, and more.**
 
-- 💬 Ask me about **writing.** I'm likelier to be the one asking questions about coding, frameworks, and whatnot.
+- 💬 Ask me about **writing (and esports if you're into that).** I'm likelier to be the one asking questions about coding, frameworks, and whatnot.
 
 - 📫 How to reach me: **adelchouadria@gmail.com**
 
