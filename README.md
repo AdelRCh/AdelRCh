@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adel Chouadria</h1>
 <h3 align="center">An experienced writer/editor and junior data scientist in one</h3>
 
-- 🔭 I’m currently working on [CoWrite](https://github.com/AdelRCh/CoWrite)
+- 🔭 I’m currently working on [the LoL Esports x AWS Hackathon group entry.](https://github.com/AdelRCh/lol-hackathon-2023)
 
 - 🌱 I’m currently looking to learn (in no specific order) **PowerBI/Tableau, AWS/Azure, and more.**
 
