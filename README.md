@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adel Chouadria</h1>
 <h3 align="center">An experienced writer/editor and junior data scientist in one</h3>
 
-- 🔭 I’m currently working on [the LoL Esports x AWS Hackathon group entry.](https://github.com/AdelRCh/lol-hackathon-2023)
+- 🔭 I’m currently working on the [NY Times Dashboard.](https://github.com/AdelRCh/nyt_dashboard)
 
-- 🌱 I’m currently looking to learn (in no specific order) **PowerBI/Tableau, AWS/Azure, and more.**
+- 🌱 I’m currently looking to learn (in no specific order) **C/C++, PowerBI, Tableau, AWS/Azure, Java, Scala, and more.**
 
 - 💬 Ask me about **writing (and esports if you're into that).** I'm likelier to be the one asking questions about coding, frameworks, and whatnot.
 
